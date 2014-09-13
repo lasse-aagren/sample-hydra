@@ -1,0 +1,8 @@
+production:
+  adapter: postgresql
+  username: paperjournals
+  database: paperjournals
+  password: 1234
+  host: localhost
+  pool: 20
+  timeout: 5000
